@@ -1,0 +1,23 @@
+{
+    "btc": "bitcoin",
+    "eth": "ethereum",
+    "bnb": "binancecoin",
+    "xrp": "ripple",
+    "ada": "cardano",
+    "sol": "solana",
+    "luna": "terra-luna",
+    "dot": "polkadot",
+    "doge": "dogecoin",
+    "avax": "avalanche-2",
+    "shib": "shiba-inu",
+    "cro": "crypto-com-chain",
+    "matic": "matic-network",
+    "ltc": "litecoin",
+    "atom": "cosmos",
+    "link": "chainlink",
+    "near": "near",
+    "trx": "tron",
+    "bch": "bitcoin-cash",
+    "ftt": "ftx-token",
+    "algo": "algorand"
+}
